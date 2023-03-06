@@ -29,7 +29,8 @@ namespace PatientsRecord
 
 
             /*Once we have loaded the data inside our database we need to come and 
-             and clear the the fields for more data enry*/
+             and clear the the fields for more data entry*/
+
             pidtext.Clear();
             fnametxt.Clear();
             lnametxt.Clear();
